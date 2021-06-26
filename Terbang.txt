@@ -1,0 +1,2 @@
+roslaunch mavros px4.launch fcu_url:=/dev/ttyUSB1:57600
+ls /dev/tty [tab tab]
